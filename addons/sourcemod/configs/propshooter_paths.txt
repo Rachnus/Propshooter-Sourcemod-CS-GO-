@@ -1,0 +1,67 @@
+//*********************************************************************************************************************
+//* To add a prop model use the following syntax (Include extension name of model .mdl):
+//* "(name of prop in menu, has to same as below)"
+//* {
+//*	"name"		"(name of prop menu, has to be same as above)"
+//*	"path" 		"(actual path)"	
+//* }
+//* NOTE: Only props that has the property "prop_physics" will work. You can easily view models and their properties 
+//* in CSGO's hammer editor
+//*********************************************************************************************************************
+"Props"
+{
+	
+	"Default"
+	{	
+		"name"		"Default"
+		"path"		"models/props_junk/watermelon01.mdl"
+	}
+
+	"Melon"
+	{
+		"name"		"Melon"
+		"path"		"models/props_junk/watermelon01.mdl"
+	}
+
+	"Barrel"
+	{
+		"name"		"Barrel"
+		"path"		"models/props/coop_cementplant/exloding_barrel/exploding_barrel.mdl"
+	}
+	
+	"Money"
+	{
+		"name"		"Money"
+		"path"		"models/props/cs_assault/money.mdl"
+	}
+	
+	"Banana"
+	{
+		"name"		"Banana"
+		"path"		"models/props/cs_italy/bananna.mdl"
+	}
+	
+	"Crate"
+	{
+		"name"		"Crate"
+		"path"		"models/props_junk/wood_crate001a.mdl"
+	}
+	
+	"Car"
+	{
+		"name"		"Car"
+		"path"		"models/props_vehicles/cara_84sedan.mdl"
+	}
+
+	"Negev"
+	{
+		"name"		"Negev"
+		"path"		"models/weapons/w_mach_negev_dropped.mdl"
+	}
+	
+	"Forklift"
+	{
+		"name" 		"Forklift"
+		"path"		"models/props/cs_assault/forklift.mdl"
+	}
+}

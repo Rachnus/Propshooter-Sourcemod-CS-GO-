@@ -1,0 +1,69 @@
+//*********************************************************************************************************************
+//* To add a color use the following syntax (Color values 0 - 255):
+//* "(name of the  color in menu, same as below)"
+//* {
+//*	"name"		"(name of the color in menu, same as above)"
+//*	"red"		"(red value)"
+//*	"green"		"(green value)"
+//*	"blue"		"(blue value)
+//* }
+//*********************************************************************************************************************
+
+"Colors"
+{
+	"Default"
+	{
+		"name"		"Default"
+		"red"		"255"
+		"green"		"255"
+		"blue"		"255"
+	}
+
+	"Black"
+	{
+		"name"		"Black"
+		"red"		"0"
+		"green"		"0"
+		"blue"		"0"
+	}
+
+	"Red"
+	{
+		"name"		"Red"
+		"red"		"255"
+		"green"		"0"
+		"blue"		"0"
+	}
+
+	"Green"
+	{
+		"name"		"Green"
+		"red"		"0"
+		"green"		"255"
+		"blue"		"0"
+	}
+
+	"Blue"
+	{
+		"name"		"Blue"
+		"red"		"0"
+		"green"		"0"
+		"blue"		"255"
+	}
+
+	"Yellow"
+	{
+		"name"		"Yellow"
+		"red"		"255"
+		"green"		"255"
+		"blue"		"0"
+	}
+
+	"Pink"
+	{
+		"name"		"Pink"
+		"red"		"255"
+		"green"		"0"
+		"blue"		"255"
+	}
+}
