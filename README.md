@@ -1,5 +1,5 @@
 # Propshooter-Sourcemod-CS-GO-
-Propshooter v1.0
+Propshooter v1.1
 
 This plugin allows admins by default to shoot props by typing !ps, !propshooter in chat, or sm_ps, sm_propshooter in console.
 
