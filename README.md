@@ -4,12 +4,12 @@ Propshooter v1.1
 This plugin allows admins by default to shoot props by typing !ps, !propshooter in chat, or sm_ps, sm_propshooter in console.
 
 ## Features:
-1. Menu + Admin menu (Same menu, depends on access flags)
-2. When propshooter is activated, bullets do 0 damage
-3. Change prop model (Models can be added to propshooter_paths.txt, aslong as they have the property "prop_physics")
-4. Change color/alpha on the prop (Colors can be added to propshooter_colors.txt)
-5. Remove props (Admins with the flag "b" can remove all props on map)
-6. Admin menu to change cvars listed down below
+# Menu + Admin menu (Same menu, depends on access flags)
+# When propshooter is activated, bullets do 0 damage
+# Change prop model (Models can be added to propshooter_paths.txt, aslong as they have the property "prop_physics")
+# Change color/alpha on the prop (Colors can be added to propshooter_colors.txt)
+# Remove props (Admins with the flag "b" can remove all props on map)
+# Admin menu to change cvars listed down below
 
 ## Cvars:
 1. propshooter_proplifespan (Default: 3) Sets the amount of seconds the prop will be alive. (0 for unlimited, or until player disconnects or removes the props)
