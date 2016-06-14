@@ -3,7 +3,7 @@ Propshooter v1.1
 
 This plugin allows admins by default to shoot props by typing !ps, !propshooter in chat, or sm_ps, sm_propshooter in console.
 
-## Features:
+# # Features:
 ###Menu + Admin menu (Same menu, depends on access flags)
 ### When propshooter is activated, bullets do 0 damage
 ### Change prop model (Models can be added to propshooter_paths.txt, aslong as they have the property "prop_physics")
